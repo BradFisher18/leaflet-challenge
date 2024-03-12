@@ -16,8 +16,9 @@ The javascript code, located in Leaflet-Part-1.static.js.logic.js, utilises the 
 
 This map can be viewed as a html file, located at Leaflet-Part-1.index. 
 ## Running
-This challenge is available at the following github page; https://bradfisher18.github.io/leaflet-challenge/ \
 Alternatively, to access the index.html file, a web browser is required.\
 To view the Javascript code, select inspect within the browser and select the Sources tab. If preferred, an easier editor is Visual Studio Code (link to install below). \
 The leaflet library is also required for the map to be displayed and can be downloaded here; https://leafletjs.com/download.html \
 Visual Studio Code install: https://code.visualstudio.com/download
+## References/External Assistance
+AskBCS was utilised on two occasion. Firstly to guide me to use pointToLayer function, and further down the line to assist with trouble shooting an error for the styling of the markers in relation to the scaling of size and colour of the marker.
